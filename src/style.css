@@ -1,0 +1,7 @@
+.hello {
+    border: 2px solid red;
+}
+
+body{
+    background-image: url('./download.png');
+}
